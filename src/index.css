@@ -1,1 +1,12 @@
-
+.main-container{
+    background-color: black;
+}
+.box{
+    color: white;
+    display: inline-block;
+    text-align: center;
+    margin: 2%;
+    padding: 5%;
+    border: solid 5px black;
+    background-color: #0f0f0e;
+}
